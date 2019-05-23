@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+html {
+  background: url('../src/assets/images/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.mat-dialog-container
+{
+  width: 70% !important;
+  position: absolute;
+  background-color: #000;
+  left: 13%;
+  min-height: 350px !important;
+  height: 350px !important;
+  margin-top: 92px;
+}

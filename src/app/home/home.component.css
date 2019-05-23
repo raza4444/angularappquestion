@@ -1,0 +1,30 @@
+html, body, .container-table {
+  height: 100%;
+}
+.container-table {
+  display: table;
+  position: absolute;
+  margin-top: 0px;
+
+}
+.vertical-center-row {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+h1 {
+  font-size: 40px;
+  color: #fff !important;
+  text-transform: uppercase;
+}
+.mat-dialog-container
+{
+  width: 70%;
+  position: absolute;
+  background-color: #000;
+  left: 13%;
+  margin-top: 92px;
+}
+
+
+
